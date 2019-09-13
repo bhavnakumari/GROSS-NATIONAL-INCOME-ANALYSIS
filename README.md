@@ -13,6 +13,6 @@ Seaborn
 Tableau
 Team members:
 
-Bhavna Kumari 
-Kunal N Gohrani https://github.com/kunal-gohrani
+Bhavna Kumari, 
+Kunal N Gohrani https://github.com/kunal-gohrani,
 Sharika Anjum Mondal https://github.com/sharika-anjum
